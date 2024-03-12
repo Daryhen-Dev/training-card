@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 import { Header1 } from '../organism/Header1'
+import { Card1 } from '../organism/Card1'
 
 export const Proyecto1Template = () => {
 
@@ -9,7 +10,7 @@ export const Proyecto1Template = () => {
                 <Header1 title='Card con extractor de colores' />
             </section>
             <header className='main'>
-
+                <Card1 />
             </header>
         </Container>
     )
