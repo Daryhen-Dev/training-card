@@ -1,11 +1,12 @@
 import styled from 'styled-components'
+import { Header1 } from '../organism/Header1'
 
 export const Proyecto1Template = () => {
 
     return (
         <Container>
             <section className='header'>
-
+                <Header1 title='Card con extractor de colores' />
             </section>
             <header className='main'>
 
