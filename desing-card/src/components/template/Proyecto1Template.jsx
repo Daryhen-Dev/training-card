@@ -29,5 +29,8 @@ height: 100vh;
     .main {
         grid-area: main;
         background-color: rgba(235,16,107, 0.14);
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 `
