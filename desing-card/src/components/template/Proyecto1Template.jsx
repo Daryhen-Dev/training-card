@@ -23,6 +23,7 @@ height: 100vh;
     'header' 100px
     'main' auto ;
     .header{
+        padding: 10px;
         grid-area: header;
         background-color: rgba(103,93,241, 0.14);
     }

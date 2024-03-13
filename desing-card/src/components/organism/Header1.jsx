@@ -21,6 +21,7 @@ const Container = styled.div`
     font-weight: 700;
     font-size: 30px;
     height: 100%;
+    
     .logo{
         height: 2.2em;
         animation: ${rotar} infinite 20s linear;
